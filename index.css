@@ -1,0 +1,68 @@
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.style1 {
+  color: blue;
+}
+article {
+  background-color: aliceblue;
+}
+p {
+  color: blue;
+  font-style: italic;
+}
+button {
+  color: blue;
+  background-color: thistle;
+}
+article {
+  margin: 20pt;
+  padding: 10pt;
+}
+
+.style2 {
+  color: #195f1e;
+}
+
+.style3 {
+  color: #861bea;
+}
+.style33 {
+  background-color: rgb(241, 229, 252);
+}
+
+.style22 {
+  background-color: rgb(215, 245, 217);
+}
+#price2 {
+  color: #195f1e;
+}
+
+#price3 {
+  color: #861bea;
+}
+
+#cart2 {
+  color: white;
+  background-color: #195f1e;
+}
+
+#cart3 {
+  color: white;
+  background-color: #861bea;
+}
+
+#cart1 {
+  color: white;
+  background-color: blue;
+}
+
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.info {
+  color: black;
+  font-style: normal;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
